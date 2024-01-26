@@ -2,20 +2,20 @@
 
 <h2>Create</h2>
 <p align="center">
-  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/eb101c2e-ed92-4260-9b7f-3b5c04bbbb73">
+  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/038a242b-045b-4286-9848-ff0ec9b948ad">
 </p>
 
 <h2>Read</h2>
 <p align="center">
-  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/b68682b9-636a-411f-a9aa-53df2f09f439">
+  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/24273067-3ee7-43f2-b73b-496f5c814093">
 </p>
 
 <h2>Update</h2>
 <p align="center">
-  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/16b340bb-4ba5-416d-834e-c289cfdd183f">
+  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/41afe36f-eae2-4798-b01c-2322791cc9c0">
 </p>
 
 <h2>Delet</h2>
 <p align="center">
-  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/4820d4c2-dd87-490b-95da-6d367553e3f5">
+  <img src="https://github.com/moonseongjin/flask_practice-CRUD-/assets/124224738/c4a5cc57-123e-4e51-8629-9e9b78fa79dd">
 </p>
